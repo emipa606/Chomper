@@ -1,14 +1,14 @@
 # Chomper
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Poshspiders mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1425086458
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Adds a Chomper to the game!
 
@@ -18,7 +18,7 @@ Made as practice, hopefully you'll enjoy it.
 
 Update: Tried to smooth the pawn out so that it fits in more with the general style of Rimworld!
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -28,6 +28,7 @@ Update: Tried to smooth the pawn out so that it fits in more with the general st
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
