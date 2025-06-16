@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chomper -->
+  <Chomper.label>chomper</Chomper.label>
+  <!-- EN: A sickening mass of fat and teeth, the result of man trying to play god. -->
+  <Chomper.description>A sickening mass of fat and teeth, the result of man trying to play god.</Chomper.description>
+  <!-- EN: left claw -->
+  <Chomper.tools.left_claw.label>left claw</Chomper.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chomper.tools.right_claw.label>right claw</Chomper.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chomper.tools.head.label>head</Chomper.tools.head.label>
+</LanguageData>

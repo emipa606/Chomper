@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chomper -->
+  <Chomper.label>chomper</Chomper.label>
+  <!-- EN: chomper spawn -->
+  <Chomper.lifeStages.chomper_spawn.label>chomper spawn</Chomper.lifeStages.chomper_spawn.label>
+  <!-- EN: chomper spawn -->
+  <Chomper.lifeStages.chomper_spawn.labelPlural>chomper spawn</Chomper.lifeStages.chomper_spawn.labelPlural>
+</LanguageData>
