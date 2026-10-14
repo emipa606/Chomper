@@ -1,13 +1,13 @@
 # [Chomper (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2420492162)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Poshspiders mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1425086458
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Adds a Chomper to the game!
 
@@ -17,13 +17,13 @@ Made as practice, hopefully you'll enjoy it.
 
 Update: Tried to smooth the pawn out so that it fits in more with the general style of Rimworld!
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -31,4 +31,4 @@ Update: Tried to smooth the pawn out so that it fits in more with the general st
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/Chomper?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2420492162) | tags:  alien
+[![Image](https://img.shields.io/github/v/release/emipa606/Chomper?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2420492162) | alien
